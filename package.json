@@ -1,0 +1,30 @@
+{
+  "name": "obione",
+  "version": "1.0.0",
+  "description": "bot obione",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibonacciNombre/obione.git"
+  },
+  "keywords": [
+    "obione"
+  ],
+  "author": "din",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fibonacciNombre/obione/issues"
+  },
+  "homepage": "https://github.com/fibonacciNombre/obione#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  },
+  "engines": {
+    "node": "~0.10.0 || ~4.2.0"
+  }
+}
